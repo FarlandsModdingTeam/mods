@@ -1,13 +1,17 @@
-[
-    {
-        "guid" : "magin.fcm",
-        "name" : "FarlandsCoreMod",
-        "description" : "A mod to make modding easier",
-        "url" : "",
-        "authors" : [
-            "Magincian71",
-            "Sui-PCero",
-            "APPSL"
-        ]
-    }
-]
+{
+    "guid" : "magin.fcm",
+    "name" : "FarlandsCoreMod",
+    "description" : "A mod to make modding easier",
+    "versions" : [
+        {
+            "version" : "0.2.0.7",
+            "farlands" : "0.3.6",
+            "url" : "https://github.com/FarlandsModdingTeam/FarlandsCoreMod/releases/download/v0.2.0.7/FCM_0.2.0.7.zip"
+        }
+    ],
+    "authors" : [
+        "Magincian71",
+        "Sui-PCero",
+        "APPSL"
+    ]
+}
