@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+h1 {
+    color: #333;
+}
+#mods-list {
+    margin-top: 20px;
+}
+.mod {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    background-color: #f9f9f9;
+    width: 250px;
+}
+.mod a {
+    display: block;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.mod a:hover {
+    background-color: #0056b3;
+}
