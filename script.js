@@ -25,7 +25,7 @@ async function loadMods() {
                     <p><strong>Descripción:</strong> ${modData.description}</p>
                     <p><strong>Versión:</strong> ${latestVersion.version}</p>
                     <p><strong>Compatible con Farlands:</strong> ${latestVersion.farlands}</p>
-                    <a href="api/mod/download.html?mod=${modData.guid}&version=${latestVersion.version}">Descargar</a>
+                    <a href="${latestVersion.url}?mod=${modData.guid}&version=${latestVersion.version}">Descargar</a>
                 `;
                 modsList.appendChild(modElement);
             } catch (error) {
@@ -76,7 +76,7 @@ async function handleDownloadRequest() {
         }
 
         // Redirigir a la URL de descarga
-        window.location.href = versionData.url;
+        document.body.textContent = versionData.url;
     } catch (error) {
         document.body.innerHTML = "<h2>Error al procesar la solicitud.</h2>";
         console.error("Error:", error);
