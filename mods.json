@@ -1,7 +1,13 @@
 [
-  {
-    "name": "TEST",
-    "user": "Magincian",
-    "uri": "thisisatest"
-  }
+    {
+        "guid" : "magin.fcm",
+        "name" : "FarlandsCoreMod",
+        "description" : "A mod to make modding easier",
+        "url" : "",
+        "authors" : [
+            "Magincian71",
+            "Sui-PCero",
+            "APPSL"
+        ]
+    }
 ]
