@@ -4,7 +4,7 @@
     "description" : "A mod to make modding easier",
     "versions" : [
         {
-            "version" : "0.2.0.7",
+            "version" : "0.2.0.8",
             "farlands" : "0.3.6",
             "url" : "https://github.com/FarlandsModdingTeam/FarlandsCoreMod/releases/download/v0.2.0.7/FCM_0.2.0.7.zip"
         }
