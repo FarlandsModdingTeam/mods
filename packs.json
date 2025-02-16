@@ -1,0 +1,15 @@
+[
+    {
+        "guid" : "@magin.fcp",
+        "name" : "FarlandsCorePack",
+        "description" : "Modpack to simplify the modding",
+        "mods": [
+          "magin.fcm"
+        ]
+        "authors" : [
+            "Magincian71",
+            "Sui-PCero",
+            "APPSL"
+        ]
+    }
+]
