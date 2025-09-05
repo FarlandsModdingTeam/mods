@@ -1,6 +1,6 @@
 [
     {
-        "guid" : "magin.fcm",
-        "url" : "https://raw.githubusercontent.com/FarlandsModdingTeam/mods/refs/heads/main/mods/fcm.json"
+        "guid" : "fm.fcm",
+        "url" : "https://raw.githubusercontent.com/FarlandsModdingTeam/FarlandsCoreMod/refs/heads/master/manifest.json"
     }
 ]
