@@ -1,9 +1,11 @@
 [
     {
+        "name" : "FCM",
         "guid" : "fm.fcm",
         "url" : "https://raw.githubusercontent.com/FarlandsModdingTeam/FarlandsCoreMod/refs/heads/master/manifest.json"
     },
     {
+        "name": "UnityExplorer",
         "guid" : "com.sinai.unityexplorer",
         "url" : "https://raw.githubusercontent.com/FarlandsModdingTeam/UnityExplorer/refs/heads/master/manifest.json"
     }
